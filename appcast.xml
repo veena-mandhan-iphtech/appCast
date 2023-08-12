@@ -8,7 +8,7 @@
             <sparkle:version>0</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/veena-mandhan-iphtech/appCast/blob/main/auto-update-demo.zip" length="959011" type="application/octet-stream" sparkle:edSignature="LJ5xIDwu7Eu5npa0mOOsO8rijPbd/3ac8tZCMANZwdCv9WnVcGynmq5vPZY93XjjHtQnI1+XwTLTGZqzsMVPBw=="/>
+            <enclosure url="https://github.com/veena-mandhan-iphtech/appCast/releases/download/1/auto-update-demo.app.zip" length="959011" type="application/octet-stream" sparkle:edSignature="LJ5xIDwu7Eu5npa0mOOsO8rijPbd/3ac8tZCMANZwdCv9WnVcGynmq5vPZY93XjjHtQnI1+XwTLTGZqzsMVPBw=="/>
         </item>
     </channel>
 </rss>
