@@ -4,19 +4,11 @@
         <title>auto-update-demo</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Sun, 13 Aug 2023 00:20:16 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Sun, 13 Aug 2023 03:04:52 +0530</pubDate>
+            <sparkle:version>0</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://avatarcreatorassets.blob.core.windows.net/qa-builds/Avatar%20Creator%20Adobe%20Distribution%20Installer_macos_1.0.1.268.zip" length="1233740" type="application/octet-stream" sparkle:edSignature="Be4UFDe2Pn4Lm+niLcbOg+1J8lS2fv+/wmWGitbBO5/IHqdoP/lfUB2qy/1jDqL9OpZsBaRfsVd7WpH5ZSUkDg=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Sun, 13 Aug 2023 00:29:28 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://avatarcreatorassets.blob.core.windows.net/qa-builds/Avatar%20Creator%20Adobe%20Distribution%20Installer_macos_1.0.1.268.zip" length="1233740" type="application/octet-stream" sparkle:edSignature="8Hx7qbqojuzzq2gYPBK74D7GOw7QZMe1dLCRsd8fNbknQI4VPxu5Hj7gYQSep4+jF+xh5XMb8JM0JU0IIMvIDw=="/>
+            <enclosure url="https://github.com/veena-mandhan-iphtech/appCast/blob/main/auto-update-demo.zip" length="959011" type="application/octet-stream" sparkle:edSignature="LJ5xIDwu7Eu5npa0mOOsO8rijPbd/3ac8tZCMANZwdCv9WnVcGynmq5vPZY93XjjHtQnI1+XwTLTGZqzsMVPBw=="/>
         </item>
     </channel>
 </rss>
