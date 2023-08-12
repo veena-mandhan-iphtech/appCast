@@ -3,12 +3,12 @@
     <channel>
         <title>auto-update-demo</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sat, 12 Aug 2023 00:46:49 +0530</pubDate>
+            <title>1.0.1</title>
+            <pubDate>Sun, 13 Aug 2023 00:20:16 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="auto-update-demo.zip" length="957915" type="application/octet-stream" sparkle:edSignature="t5+P35fmorG54DxKJQbyRJ78/MWFs43a0rZBxY/Rjpwzvn6Xh7uJL0BDR0iFYjm8XjSbZF2vKj+vQOW0ATSsAw=="/>
+            <enclosure url="https://github.com/veena-mandhan-iphtech/appCast/blob/main/auto-update-demo.zip" length="957845" type="application/octet-stream" sparkle:edSignature="Be4UFDe2Pn4Lm+niLcbOg+1J8lS2fv+/wmWGitbBO5/IHqdoP/lfUB2qy/1jDqL9OpZsBaRfsVd7WpH5ZSUkDg=="/>
         </item>
     </channel>
 </rss>
