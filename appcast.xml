@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Auto-update-SwiftUI</title>
+        <title>auto-update-demo</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sun, 13 Aug 2023 05:58:35 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Sun, 13 Aug 2023 05:16:33 +0530</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/veena-mandhan-iphtech/appCast/blob/main/Auto-update-SwiftUI.zip" length="943920" type="application/octet-stream" sparkle:edSignature="L4CUivKkgx2K3x4l+/j8MM4wZWernEhBaBCJOTitS2U03/vQclA7/MMb6fprgz6ABMKi8EKWTUBcg0lJdvaDDA=="/>
+            <enclosure url="https://github.com/veena-mandhan-iphtech/appCast/blob/main/auto-update-demo.zip" length="960874" type="application/octet-stream" sparkle:edSignature="i7L9p2jwb+rDvTiQxkqijznR63M2CzCdqvWr95wXG51L4+/pR0tABy4rVhoVsJOh33CheQ6ed18/EMcvtv5xBw=="/>
         </item>
     </channel>
 </rss>
