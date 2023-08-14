@@ -4,11 +4,9 @@
         <title>auto-update-demo</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Sun, 13 Aug 2023 05:16:33 +0530</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <pubDate>Mon, 14 Aug 2023 18:33:53 +0530</pubDate>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/veena-mandhan-iphtech/appCast/releases/download/4/auto-update-demo.zip" length="960874" type="application/octet-stream""/>
+            <enclosure url="https://raw.githubusercontent.com/veena-mandhan-iphtech/appCast/main/auto-update-demo.zip" sparkle:version="0.8" sparkle:shortVersionString="1.0.1" length="1017130" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
