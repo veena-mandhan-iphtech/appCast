@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>auto-update-demo</title>
+        <title>WinSparkle Test Appcast</title>
+        <description>Most recent updates to WinSparkle Test</description>
+        <language>en</language>
         <item>
             <title>1.0.1</title>
-            <pubDate>Sun, 13 Aug 2023 05:16:33 +0530</pubDate>
-            <enclosure
-                url="https://github.com/veena-mandhan-iphtech/appCast/releases/download/4/auto-update-demo.zip"
-                length="960874"
-                type="application/octet-stream"
-                sparkle:version="1.0.1" <!-- Add the version number here -->
-                sparkle:dsaSignature="MD0CHBu66RW/F9HQCx8W+wWD4Eg9ikP17HOi5DHagMkCHQDH9FO5qxPeew+Y88Vp"/>
+            <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
+            <enclosure url="https://github.com/veena-mandhan-iphtech/appCast/releases/download/4/auto-update-demo.zip"
+                       sparkle:dsaSignature="MD0CHBu66RW/F9HQCx8W+wWD4Eg9ikP17HOi5DHagMkCHQDH9FO5qxPeew+Y88Vp"
+                       sparkle:version="1.0.1"
+                       length="0"
+                       type="application/octet-stream" />
         </item>
     </channel>
 </rss>
